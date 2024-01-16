@@ -13,8 +13,7 @@
 https://github.com/facebookresearch/audiocraft/blob/main/docs/MAGNET.md
 
 ### 📄 Paper
-https://arxiv.org/abs/2305.09636 <br />
-https://arxiv.org/abs/2307.04686 <br />
+https://arxiv.org/abs/2401.04577
 
 ### 🌐 Page
 https://pages.cs.huji.ac.il/adiyoss-lab/MAGNeT/
