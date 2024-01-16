@@ -20,6 +20,7 @@ https://github.com/facebookresearch/audiocraft/blob/main/docs/MAGNET.md
 
 ### 🖼 Output
 
+https://github.com/camenduru/MAGNeT-colab/assets/54370274/e4467eaf-f77e-49e0-8edf-c47ed0333787
 
 ### 🏢 Sponsor
 https://modelslab.com
