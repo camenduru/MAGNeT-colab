@@ -10,13 +10,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MAGNET-colab/blob/main/MAGNET_gradio_colab.ipynb) | MAGNET_gradio_colab
 
 ### 🧬 Code
-https://github.com/facebookresearch/audiocraft/blob/main/docs/MAGNET.md
+https://github.com/facebookresearch/audiocraft
 
 ### 📄 Paper
 https://arxiv.org/abs/2401.04577
 
 ### 🌐 Page
-https://pages.cs.huji.ac.il/adiyoss-lab/MAGNeT/
+https://github.com/facebookresearch/audiocraft/blob/main/docs/MAGNET.md
 
 ### 🖼 Output
 
