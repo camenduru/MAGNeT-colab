@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PhotoMaker-colab/blob/main/PhotoMaker_colab.ipynb) | PhotoMaker_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MAGNET-colab/blob/main/MAGNET_colab.ipynb) | PhotoMaker_colab
 
 ### 🧬 Code
 https://github.com/facebookresearch/audiocraft/blob/main/docs/MAGNET.md
